@@ -24,6 +24,8 @@ I thrive on diving deep into technical rabbit holes, whether it's understanding 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=PostgreSQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+![Verilog](https://img.shields.io/badge/-Verilog-8A0707?style=flat&logo=verilog&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) *(usually Arch or Fedora)*  
 
 ![English](https://img.shields.io/badge/-English-FF4B4B?style=flat&logo=books&logoColor=white) *(native, but occasional syntax errors)*
