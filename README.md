@@ -6,7 +6,7 @@ I believe in software as a craft — not just a means to an end, but a process o
 
 Currently based in 🌲 Redwood City, CA.
 
-##  Motivation
+## 🌟 Motivation
 
 I thrive on diving deep into technical rabbit holes, whether it's understanding software interdependencies or exploring complex technical concepts. My work tends to focus on bridging the gap between high-level data analytics and software systems.
 
