@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Evan
 
 I'm passionate about exploring data-intensive systems and low-level programming. 
+
 I believe in software as a craft — not just a means to an end, but a process of continuous exploration and refinement.
+
 Currently based in 🌲 Redwood City, CA.
 
 ##  Motivation
