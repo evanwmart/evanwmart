@@ -10,7 +10,7 @@ Currently based in 🌲 Redwood City, CA.
 
 I thrive on diving deep into technical rabbit holes, whether it's understanding software interdependencies or exploring complex technical concepts. My work tends to focus on bridging the gap between high-level data analytics and software systems.
 
-## 🛠️ Technical Arsenal
+## 🛠️ Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript/TypeScript](https://img.shields.io/badge/-JavaScript%2FTypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
