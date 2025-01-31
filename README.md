@@ -24,7 +24,7 @@ I thrive on diving deep into technical rabbit holes, whether it's understanding 
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) *(usually Arch or Fedora)*  
 
-![English](https://img.shields.io/badge/-English-FF4B4B?style=flat&logo=books&logoColor=white) *(native speaker, but occasional syntax errors)*
+![English](https://img.shields.io/badge/-English-FF4B4B?style=flat&logo=books&logoColor=white) *(native, but occasional syntax errors)*
 
 ## 📫 Let's Connect
 
