@@ -29,7 +29,7 @@ I thrive on diving deep into technical rabbit holes, whether it's understanding 
 ## 📫 Let's Connect
 
 - 📧 [evanwmart@gmail.com](mailto:evanwmart@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Website](https://your-website.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/evanwmart)
+- 🌐 [Website](https://evanwmart.com)
 
 ---
