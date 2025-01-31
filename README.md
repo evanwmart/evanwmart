@@ -4,9 +4,13 @@ I'm passionate about exploring data-intensive systems and low-level programming.
 
 I believe in software as a craft — not just a means to an end, but a process of continuous exploration and refinement.
 
+---
+
 ## 🌟 Motivation
 
 I thrive on diving deep into technical rabbit holes, whether it's understanding software interdependencies or exploring complex technical concepts. My work tends to focus on bridging the gap between high-level data analytics and software systems.
+
+---
 
 ## 🛠️ Languages
 
@@ -23,11 +27,3 @@ I thrive on diving deep into technical rabbit holes, whether it's understanding 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) *(usually Arch or Fedora)*  
 
 ![English](https://img.shields.io/badge/-English-FF4B4B?style=flat&logo=books&logoColor=white) *(native, but occasional syntax errors)*
-
-## 📫 Let's Connect
-
-- 📧 [evanwmart@gmail.com](mailto:evanwmart@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/evanwmart)
-- 🌐 [Website](https://evanwmart.com)
-
----
